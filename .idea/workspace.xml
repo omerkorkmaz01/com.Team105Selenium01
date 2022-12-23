@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="329a8b84-7831-4c21-9b77-da2ea8f0ba9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/async-http-client-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/async-http-client-netty-utils-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/auto-common-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/auto-service-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/auto-service-annotations-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/byte-buddy-1.12.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/checker-qual-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/error_prone_annotations-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/failsafe-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/failureaccess-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/guava-31.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/j2objc-annotations-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/jakarta.activation-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/jcommander-1.82.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/jtoml-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-buffer-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-codec-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-codec-http-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-codec-socks-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-common-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-handler-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-handler-proxy-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-reactive-streams-2.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-resolver-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-transport-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-transport-classes-epoll-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-transport-classes-kqueue-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-transport-native-epoll-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-transport-native-kqueue-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/netty-transport-native-unix-common-4.1.84.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-api-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-api-logs-1.19.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-context-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-exporter-common-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-exporter-logging-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-sdk-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-sdk-common-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-sdk-extension-autoconfigure-1.19.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-sdk-logs-1.19.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-sdk-metrics-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-sdk-trace-1.19.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/opentelemetry-semconv-1.19.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/reactive-streams-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/lib/slf4j-api-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-api-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-api-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-chrome-driver-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-chrome-driver-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-chromium-driver-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-chromium-driver-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-devtools-v106-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-devtools-v106-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-devtools-v107-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-devtools-v107-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-devtools-v108-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-devtools-v108-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-devtools-v85-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-devtools-v85-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-edge-driver-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-edge-driver-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-firefox-driver-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-firefox-driver-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-http-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-http-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-ie-driver-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-ie-driver-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-java-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-java-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-json-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-json-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-manager-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-manager-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-remote-driver-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-remote-driver-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-safari-driver-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-safari-driver-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-support-4.7.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/selenium-java-4.7.2/selenium-support-4.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day01_driverMethodlar/C01_driver_get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C01_DriverMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C02_DriverMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C03_DriverMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C04_DriverNavigateMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C05_windowHandleDegeri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C06_DriverManageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C07_DriverFindElementMethodu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C01_ByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C02_ByClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C03_ByLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day01_driverMethodlar/C01_driver_get.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethodlari/C01_DriverMethodlari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethodlari/C02_DriverMethodlari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethodlari/C03_DriverMethodlari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethodlari/C04_DriverNavigateMethodlari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethodlari/C05_windowHandleDegeri.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethodlari/C06_DriverManageMethodlari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethodlari/C07_DriverFindElementMethodu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day03_locators/C01_ByName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day03_locators/C02_ByClassName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/day03_locators/C03_ByLinkText.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JDL1raNBJ7C4etItKt3acuYXgY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/omerk/IdeaProjects/com.Team105Selenium01/src/drivers&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\omerk\IdeaProjects\com.Team105Selenium01\src\drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omerk\IdeaProjects\com.Team105Selenium01\src\drivers" />
+      <recent name="C:\Users\omerk\IdeaProjects\com.Team105Selenium01\src\drivers\chromedriver_win32" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C03_ByLinkText">
+    <configuration name="C01_ByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C01_ByName" />
+      <module name="com.Team105Selenium01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03_locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_ByClassName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C02_ByClassName" />
+      <module name="com.Team105Selenium01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03_locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_ByLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C03_ByLinkText" />
+      <module name="com.Team105Selenium01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03_locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_windowHandleDegeri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C05_windowHandleDegeri" />
+      <module name="com.Team105Selenium01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_DriverFindElementMethodu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C07_DriverFindElementMethodu" />
+      <module name="com.Team105Selenium01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C03_ByLinkText" />
+        <item itemvalue="Application.C02_ByClassName" />
+        <item itemvalue="Application.C01_ByName" />
+        <item itemvalue="Application.C07_DriverFindElementMethodu" />
+        <item itemvalue="Application.C05_windowHandleDegeri" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="329a8b84-7831-4c21-9b77-da2ea8f0ba9c" name="Changes" comment="" />
+      <created>1671607496362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671607496362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
