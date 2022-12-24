@@ -36,9 +36,9 @@ public class C02_CssSelector {
         //7-  Birthday butonuna basin
         driver.findElement(By.cssSelector("//a[@aria-label='Birthday']")).click();
         //8-  Best Seller bolumunden ilk urunu tiklayin
-        driver.findElement(By.cssSelector("(//li[@class='a-carousel-card acswidget-carousel__card'])[1]"));
+        driver.findElement(By.xpath("(//li[@class='a-carousel-card acswidget-carousel__card'])[1]"));
         //9-  Gift card details’den 25 $’i  secin
-        driver.findElement(By.cssSelector("(//button[id='gc-mini-picker-amount-1'])[1]")).click();
+        driver.findElement(By.xpath("(//button[@id='gc-mini-picker-amount-1'])[1]")).click();
         //10- Urun ucretinin 25$ oldugunu test edin
         WebElement urunUcretElementi= driver.findElement(By.xpath("(//span[text()='$25.00'])[1]"));
 
