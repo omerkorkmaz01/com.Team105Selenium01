@@ -59,20 +59,7 @@
       <recent name="C:\Users\omerk\IdeaProjects\com.Team105Selenium01\src\drivers\chromedriver_win32" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_XPath">
-    <configuration name="C01_ByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C01_ByName" />
-      <module name="com.Team105Selenium01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C02_CssSelector">
     <configuration name="C01_XPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day04_xpath_ccsSelector.C01_XPath" />
       <module name="com.Team105Selenium01" />
@@ -92,6 +79,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day03_locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_xpath_ccsSelector.C02_CssSelector" />
+      <module name="com.Team105Selenium01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04_xpath_ccsSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_CssSelector" />
         <item itemvalue="Application.C01_XPath" />
         <item itemvalue="Application.C04_AutomationExercise" />
         <item itemvalue="Application.C03_ByLinkText" />
         <item itemvalue="Application.C02_ByClassName" />
-        <item itemvalue="Application.C01_ByName" />
       </list>
     </recent_temporary>
   </component>
