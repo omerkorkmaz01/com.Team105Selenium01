@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="329a8b84-7831-4c21-9b77-da2ea8f0ba9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day03_locators/C03_ByLinkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C03_ByLinkText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day03_locators/C03_ByLinkText.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day03_locators/C03_ByLinkText.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +59,26 @@
       <recent name="C:\Users\omerk\IdeaProjects\com.Team105Selenium01\src\drivers\chromedriver_win32" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C04_AutomationExercise">
+  <component name="RunManager" selected="Application.C01_XPath">
     <configuration name="C01_ByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day03_locators.C01_ByName" />
       <module name="com.Team105Selenium01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day03_locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_XPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_xpath_ccsSelector.C01_XPath" />
+      <module name="com.Team105Selenium01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04_xpath_ccsSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_DriverFindElementMethodu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C07_DriverFindElementMethodu" />
-      <module name="com.Team105Selenium01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02_driverMethodlari.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_XPath" />
         <item itemvalue="Application.C04_AutomationExercise" />
         <item itemvalue="Application.C03_ByLinkText" />
         <item itemvalue="Application.C02_ByClassName" />
         <item itemvalue="Application.C01_ByName" />
-        <item itemvalue="Application.C07_DriverFindElementMethodu" />
       </list>
     </recent_temporary>
   </component>
