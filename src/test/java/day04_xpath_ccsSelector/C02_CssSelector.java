@@ -34,11 +34,11 @@ public class C02_CssSelector {
         driver.findElement(By.linkText("Gift Card")).click();
         Thread.sleep(2000);
         //7-  Birthday butonuna basin
-        driver.findElement(By.xpath("//a[@aria-label='Birthday']")).click();
+        driver.findElement(By.cssSelector("//a[@aria-label='Birthday']")).click();
         //8-  Best Seller bolumunden ilk urunu tiklayin
-        driver.findElement(By.xpath("(//li[@class='a-carousel-card acswidget-carousel__card'])[1]"));
+        driver.findElement(By.cssSelector("(//li[@class='a-carousel-card acswidget-carousel__card'])[1]"));
         //9-  Gift card details’den 25 $’i  secin
-        driver.findElement(By.xpath("(//button[@id='gc-mini-picker-amount-1'])[1]")).click();
+        driver.findElement(By.cssSelector("(//button[id='gc-mini-picker-amount-1'])[1]")).click();
         //10- Urun ucretinin 25$ oldugunu test edin
         WebElement urunUcretElementi= driver.findElement(By.xpath("(//span[text()='$25.00'])[1]"));
 
@@ -50,7 +50,6 @@ public class C02_CssSelector {
         }else{
             System.out.println("Gift Card ucret tesi failed");
         }
-
         //11- Sayfayi kapatin
         Thread.sleep(3000);
         driver.close();
