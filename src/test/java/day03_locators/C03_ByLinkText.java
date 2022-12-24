@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
 public class C03_ByLinkText {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
     // amazon anasayfaya gidin
     // Gift Cards linkini tiklayin
@@ -21,7 +21,10 @@ public class C03_ByLinkText {
 
     driver.get("https://amazon.com");
 
-        WebElement giftCardLinki= driver.findElement(By.linkText("Today's Deals"));
+        //WebElement giftCardLinki= driver.findElement(By.linkText("Today's Deals"));
+
+        Thread.sleep(4000);
+        WebElement giftCardLinki=driver.findElement(By.partialLinkText("Gift"));
         giftCardLinki.click();
 
         // istenen sayfaya gittigini test etmek icin
@@ -35,6 +38,8 @@ public class C03_ByLinkText {
         }else {
             System.out.println("Gift Cards testi FAILED");
         }
+
+        driver.close();
 
     }
 }
