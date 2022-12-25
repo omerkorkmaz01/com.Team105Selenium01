@@ -7,7 +7,6 @@
     <list default="true" id="329a8b84-7831-4c21-9b77-da2ea8f0ba9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day04_xpath_ccsSelector/C02_CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_ccsSelector/C02_CssSelector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,20 @@
       <recent name="C:\Users\omerk\IdeaProjects\com.Team105Selenium01\src\drivers\chromedriver_win32" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C03_RelativeLocators">
+  <component name="RunManager" selected="Application.C01_MavenİlkTest">
+    <configuration name="C01_MavenİlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_Maven.C01_MavenİlkTest" />
+      <module name="com.Team105Selenium01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_Maven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_XPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day04_xpath_ccsSelector.C01_XPath" />
       <module name="com.Team105Selenium01" />
@@ -81,19 +93,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day04_xpath_ccsSelector.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_ByLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C03_ByLinkText" />
-      <module name="com.Team105Selenium01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_MavenİlkTest" />
         <item itemvalue="Application.C03_RelativeLocators" />
         <item itemvalue="Application.C02_CssSelector" />
         <item itemvalue="Application.C01_XPath" />
         <item itemvalue="Application.C04_AutomationExercise" />
-        <item itemvalue="Application.C03_ByLinkText" />
       </list>
     </recent_temporary>
   </component>
